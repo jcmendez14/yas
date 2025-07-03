@@ -1,0 +1,26 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN" group-title="Deportes",ESPN
+http://new-tv.cloud:25461/Danielhonorio/DHC1511/689896 
+
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN" group-title="Deportes",ESPN
+http://new-tv.cloud:25461/Danielhonorio/DHC1511/689897 
+
+#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN" group-title="Deportes",ESPN
+http://new-tv.cloud:25461/Danielhonorio/DHC1511/689898 
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" group-title="Entretenimiento",A&E
+http://new-tv.cloud:25461/Danielhonorio/DHC1511/563684 
+
+#EXTINF:-1 tvg-id="axn" tvg-name="axn" group-title="Entretenimiento",axn
+http://new-tv.cloud:25461/Danielhonorio/DHC1511/563685
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" group-title="Zona Kids",Discovery Kids
+http://new-tv.cloud:25461/Danielhonorio/DHC1511/195817 
+
+#EXTINF:-1 tvg-id="nick" tvg-name="nick" group-title="Zona Kids",nick
+http://new-tv.cloud:25461/Danielhonorio/DHC1511/195826
+
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="nick" group-title="Entretenimiento",Cine Max
+http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/120054.ts
+

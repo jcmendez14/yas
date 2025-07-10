@@ -28,5 +28,5 @@ http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/120054.ts
 #EXTINF:-1 tvg-id="canal1" tvg-name="Mi Canal" tvg-logo="https://example.com/logo.png" group-title="Entretenimiento",Mi Canal
 https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Lilo & Stitch" tvg-logo="https://example.com/lilo-stitch-logo.jpg" group-title="Películas Infantiles",Lilo & Stitch
-https://cuyyro04xrqrh.premilkyway.com/hls2/01/10423/xlqn40u2fthg_n/master.m3u8?t=aOCtDvdyEzbRwGxL8qSGRzH0PnB2X8nVL2FKH9dP1gA&s=1752126201&e=129600&f=52117768&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=52262
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://i.imgur.com/XYZ123.png" group-title="Deportes",TUDN
+https://micaplay.net:8443/play/P0lgG2wseZUDRoTPHXJ0898ItsLNkiF8t4qRedUb9qxc9yfwAFPsqnGavH0Wmz7x/ts

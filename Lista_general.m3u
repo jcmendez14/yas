@@ -23,3 +23,7 @@ http://new-tv.cloud:25461/Danielhonorio/DHC1511/195826
 
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="CineMax" tvg-logo="https://i.imgur.com/5yY9l0k.png" group-title="CINE",CineMax
 http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/120054.ts
+#EXTM3U x-tvg-url="https://example.com/epg.xml"
+
+#EXTINF:-1 tvg-id="canal1" tvg-name="Mi Canal" tvg-logo="https://example.com/logo.png" group-title="Entretenimiento",Mi Canal
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
